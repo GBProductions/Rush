@@ -1,0 +1,16 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: gold
+}
+
+.float {
+  float: left;
+  background-color: green;
+}
+
+.column {
+  width: 300px;
+  float: left;
+  background-color: hotpink;
+}
